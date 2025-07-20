@@ -1,3 +1,10 @@
+Instructions for use with Python
+---
+1. cd rplidar_sdk
+2. make
+
+You can now run 'from rplidar_sdk.output.Linux.Release import rplidar' in Python.  
+
 Slamtec RPLIDAR Public SDK for C++
 ==================================
 
